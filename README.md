@@ -34,9 +34,9 @@ lxml
 > faça isso para outras bibliotecas, lembrando sempre de passar o caminho das pasta da biblioteca
 
 #### instalação via console windows
-pip install BeautifulSoup4..
-pip install requests..
-pip install lxml..
+pip install BeautifulSoup4 . 
+pip install requests . 
+pip install lxml . 
 
 
 
