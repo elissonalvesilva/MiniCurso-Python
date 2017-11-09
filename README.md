@@ -16,7 +16,7 @@ Download das bibliotecas:
 - requests
 - lxml
 
-#### instalação Manual
+#### Instalação Manual
 
 > Depois extraia os arquivos .zip e coloque as bibliotecas na pasta abaixo:
 
@@ -36,7 +36,7 @@ Download das bibliotecas:
 
 > faça isso para outras bibliotecas, lembrando sempre de passar o caminho das pasta da biblioteca
 
-#### instalação via console windows
+#### Instalação via console windows
 
 - pip install BeautifulSoup4 
 - pip install requests
