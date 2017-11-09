@@ -15,23 +15,23 @@ requests
 lxml
 
 #### instalação Manual
-Depois extraia os arquivos .zip e coloque as bibliotecas na pasta abaixo:
+> Depois extraia os arquivos .zip e coloque as bibliotecas na pasta abaixo:
 
-C:\Users\Administrador\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
+- C:\Users\Administrador\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
 
-Após isso entre no console do Windows e digite o comando:
+> Após isso entre no console do Windows e digite o comando:
 
-cd C:\Users\Administrador\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
+- cd C:\Users\Administrador\AppData\Local\Programs\Python\Python36-32\Lib\site-packages\
 
-aperte Enter, e depois digite outro comando
+- aperte Enter, e depois digite outro comando
 
-cd beaultifulsoup4
+- cd beaultifulsoup4
 
-aperte Enter novamente
+- aperte Enter novamente
 
-setup.py install
+> setup.py install
 
-faça isso para outras bibliotecas, lembrando sempre de passar o caminho das pasta da biblioteca
+> faça isso para outras bibliotecas, lembrando sempre de passar o caminho das pasta da biblioteca
 
 #### instalação via console windows
 pip install BeautifulSoup4
