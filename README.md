@@ -4,9 +4,9 @@ Minicurso ministrado no V Encoeng na Faculdade Fucapi
 ## Instalação das bibliotecas
 
 ### Macosx and Linux
-$ pip3 install BeautifulSoup4
-$ pip3 install requests
-$ pip3 install lxml
+- $ pip3 install BeautifulSoup4
+- $ pip3 install requests
+- $ pip3 install lxml
 
 ### Windows
 Download das bibliotecas:
